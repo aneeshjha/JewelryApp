@@ -1,0 +1,55 @@
+{
+  "version": 2,
+  "dgSpecHash": "JV58JdPDyVXyQ9bZ868tnwUQyV9AzDlNqEUHqmf6jwKMAm74DfXRxWQejeBZDjV8sIzqTO3vhnE68hC0QOBb5g==",
+  "success": true,
+  "projectFilePath": "/Users/ajha/Desktop/JewelryApp/Jewelry/Service/Service.csproj",
+  "expectedPackageFiles": [
+    "/Users/ajha/.nuget/packages/microsoft.bcl/1.1.6/microsoft.bcl.1.1.6.nupkg.sha512",
+    "/Users/ajha/.nuget/packages/microsoft.bcl.async/1.0.165/microsoft.bcl.async.1.0.165.nupkg.sha512",
+    "/Users/ajha/.nuget/packages/microsoft.bcl.build/1.0.10/microsoft.bcl.build.1.0.10.nupkg.sha512",
+    "/Users/ajha/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ajha/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/ajha/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/ajha/.nuget/packages/pclstorage/1.0.2/pclstorage.1.0.2.nupkg.sha512",
+    "/Users/ajha/.nuget/packages/prism.core/8.0.0.1909/prism.core.8.0.0.1909.nupkg.sha512",
+    "/Users/ajha/.nuget/packages/prism.forms/8.0.0.1909/prism.forms.8.0.0.1909.nupkg.sha512",
+    "/Users/ajha/.nuget/packages/prism.unity.forms/8.0.0.1909/prism.unity.forms.8.0.0.1909.nupkg.sha512",
+    "/Users/ajha/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/ajha/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "/Users/ajha/.nuget/packages/unity.abstractions/5.11.6/unity.abstractions.5.11.6.nupkg.sha512",
+    "/Users/ajha/.nuget/packages/unity.container/5.11.8/unity.container.5.11.8.nupkg.sha512",
+    "/Users/ajha/.nuget/packages/xamarin.forms/4.8.0.1364/xamarin.forms.4.8.0.1364.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Bcl 1.1.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Bcl",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Bcl.Async 1.0.165' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Bcl.Async",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'PCLStorage 1.0.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "PCLStorage",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

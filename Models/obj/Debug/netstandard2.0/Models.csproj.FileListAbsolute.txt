@@ -1,0 +1,16 @@
+C:/Users/aneesh.j/Desktop/Jewelry/Models/bin/Debug/netstandard2.0/Models.deps.json
+C:/Users/aneesh.j/Desktop/Jewelry/Models/bin/Debug/netstandard2.0/Models.dll
+C:/Users/aneesh.j/Desktop/Jewelry/Models/bin/Debug/netstandard2.0/Models.pdb
+C:/Users/aneesh.j/Desktop/Jewelry/Models/obj/Debug/netstandard2.0/Models.AssemblyInfoInputs.cache
+C:/Users/aneesh.j/Desktop/Jewelry/Models/obj/Debug/netstandard2.0/Models.AssemblyInfo.cs
+C:/Users/aneesh.j/Desktop/Jewelry/Models/obj/Debug/netstandard2.0/Models.csproj.CoreCompileInputs.cache
+C:/Users/aneesh.j/Desktop/Jewelry/Models/obj/Debug/netstandard2.0/Models.dll
+C:/Users/aneesh.j/Desktop/Jewelry/Models/obj/Debug/netstandard2.0/Models.pdb
+/Users/ajha/Desktop/JewelryApp/Jewelry/Models/bin/Debug/netstandard2.0/Models.deps.json
+/Users/ajha/Desktop/JewelryApp/Jewelry/Models/bin/Debug/netstandard2.0/Models.dll
+/Users/ajha/Desktop/JewelryApp/Jewelry/Models/bin/Debug/netstandard2.0/Models.pdb
+/Users/ajha/Desktop/JewelryApp/Jewelry/Models/obj/Debug/netstandard2.0/Models.AssemblyInfoInputs.cache
+/Users/ajha/Desktop/JewelryApp/Jewelry/Models/obj/Debug/netstandard2.0/Models.AssemblyInfo.cs
+/Users/ajha/Desktop/JewelryApp/Jewelry/Models/obj/Debug/netstandard2.0/Models.csproj.CoreCompileInputs.cache
+/Users/ajha/Desktop/JewelryApp/Jewelry/Models/obj/Debug/netstandard2.0/Models.dll
+/Users/ajha/Desktop/JewelryApp/Jewelry/Models/obj/Debug/netstandard2.0/Models.pdb
